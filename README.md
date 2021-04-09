@@ -8,7 +8,7 @@
 
 使用  
 ----------------------------------- 
-   go get gitee.com/medreams/jpush
+   go get github.com/medreams/jpush
    
    
 推送流程  
